@@ -1,7 +1,8 @@
 ![alt tag](https://raw.githubusercontent.com/softdonkey/telebook/master/gquVlu.png)
 
 Telebook is a GUI telephone directory that helps organising telephone numbers.<br>
-For each new entry, user has to define values in four fields: ID, FULL NAME, JOB and PHONE NUMBER.<br><br>
+For each new entry, user has to define values in four fields: ID, FULL NAME, JOB and PHONE NUMBER.<br>
+The current application uses Java Swing and JDBC for database storage.<br><br>
 
 In order to launch the application you have to initially start the JDBC Derby network server locally:
 
