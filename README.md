@@ -1,5 +1,3 @@
-# TeleBook
-
 ![alt tag](https://raw.githubusercontent.com/softdonkey/telebook/master/gquVlu.png)
 
 Telebook is a GUI telephone directory that helps organising telephone numbers.<br>
