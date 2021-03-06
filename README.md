@@ -1,17 +1,13 @@
-<<<<<<< HEAD
-# TeleBook
-
 ![alt tag](https://raw.githubusercontent.com/DataMoon/telebook/master/gquVlu.png)
 
 Telebook is a GUI telephone directory that helps organising telephone numbers.<br>
 For each new entry, user has to define values in four fields: ID, FULL NAME, JOB and PHONE NUMBER.<br><br>
-=======
+
 ![alt tag](https://raw.githubusercontent.com/softdonkey/telebook/master/gquVlu.png)
 
 Telebook is a GUI telephone directory that helps organising telephone numbers.<br>
 For each new entry, user has to define values in four fields: ID, FULL NAME, JOB and PHONE NUMBER.<br>
 The current application uses Java Swing and JDBC for database storage.<br>
->>>>>>> 95298900851569a019a572eddcab5a983b693838
 
 In order to launch the application you have to initially start the JDBC Derby network server locally:
 
@@ -25,10 +21,10 @@ Then you can either left-click manually on Telebook.jar file which is located in
 java -jar Telebook.jar
 ```
 
-<<<<<<< HEAD
+
 ![alt tag](https://raw.githubusercontent.com/DataMoon/telebook/master/screen.png)
-=======
+
 Allowed operations are adding, updating, displaying or deleting telephone numbers.
 
 ![alt tag](https://raw.githubusercontent.com/softdonkey/telebook/master/screen.png)
->>>>>>> 95298900851569a019a572eddcab5a983b693838
+
