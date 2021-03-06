@@ -1,6 +1,6 @@
 # TeleBook
 
-![alt tag](https://raw.githubusercontent.com/DataMoon/telebook/master/gquVlu.png)
+![alt tag](https://raw.githubusercontent.com/softdonkey/telebook/master/gquVlu.png)
 
 Telebook is a GUI telephone directory that helps organising telephone numbers.<br>
 For each new entry, user has to define values in four fields: ID, FULL NAME, JOB and PHONE NUMBER.<br><br>
@@ -17,4 +17,4 @@ Then you can either left-click manually on Telebook.jar file which is located in
 java -jar Telebook.jar
 ```
 
-![alt tag](https://raw.githubusercontent.com/DataMoon/telebook/master/screen.png)
+![alt tag](https://raw.githubusercontent.com/softdonkey/telebook/master/screen.png)
