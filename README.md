@@ -21,5 +21,3 @@ java -jar Telebook.jar
 
 Allowed operations are adding, updating, displaying or deleting telephone numbers.
 
-![alt tag](https://raw.githubusercontent.com/softdonkey/telebook/master/screen.png)
-
