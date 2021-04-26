@@ -1,4 +1,4 @@
-![alt tag](https://raw.githubusercontent.com/fsiamp/telebook/master/gquVlu.png)
+![alt tag](https://raw.githubusercontent.com/softdonkey/telebook/master/gquVlu.png)
 
 Telebook is a GUI telephone directory that helps organising telephone numbers.<br>
 For each new entry, user has to define values in four fields: ID, FULL NAME, JOB and PHONE NUMBER.<br>
