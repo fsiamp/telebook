@@ -17,7 +17,7 @@ java -jar Telebook.jar
 ```
 
 
-![alt tag](https://raw.githubusercontent.com/fsiamp/telebook/master/screen.png)
+![alt tag](https://raw.githubusercontent.com/softdonkey/telebook/master/screen.png)
 
 Allowed operations are adding, updating, displaying or deleting telephone numbers.
 
